@@ -1,2 +1,0 @@
-# clone-Daejin
-clone practice
