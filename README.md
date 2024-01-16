@@ -20,7 +20,7 @@
 ### 수강신청 Page
 </summary>
 
-   토글 안 내용
+  ![KakaoTalk_Snapshot_20240116_093120](https://github.com/soobolee/DaejinUniv_clone/assets/86949902/3f8f619a-3d66-41ca-b4d6-02f23d9308b1)
 </details>
 
 
