@@ -4,7 +4,7 @@
 대진대학 학생은 아니지만 대진대학 로고, 배경이미지 자료가 있길래 이미지를 사용해서 클론코딩을 하며 간단한 HTML과 CSS 숙지 및 복습
 <hr />
 
-## images
+## images dropdown
 <details>
 <summary>
   
