@@ -11,7 +11,7 @@
 ### 메인 Page
 </summary>
 
-   토글 안 내용
+   ![KakaoTalk_Snapshot_20240116_093102](https://github.com/soobolee/DaejinUniv_clone/assets/86949902/17a9b394-2254-4932-9eed-1ca2286974d7)
 </details>
 
 <details>
